@@ -1,0 +1,38 @@
+{
+  "LHC_Run3_2022": {
+    "description": "LHC Run 3 Start",
+    "n_analyses": 34,
+    "mean_plv_by_freq": {
+      "3000.0_Hz": {
+        "mean": 0.028885028911694977,
+        "std": 0.01076852382962792,
+        "max": 0.06563723091256818,
+        "n_pairs": 34
+      }
+    }
+  },
+  "LHC_Run3_2023": {
+    "description": "LHC Run 3 Continue",
+    "n_analyses": 34,
+    "mean_plv_by_freq": {
+      "3000.0_Hz": {
+        "mean": 0.028885028911694977,
+        "std": 0.01076852382962792,
+        "max": 0.06563723091256818,
+        "n_pairs": 34
+      }
+    }
+  },
+  "Future_Collider_2025": {
+    "description": "Future Collider Online",
+    "n_analyses": 34,
+    "mean_plv_by_freq": {
+      "3000.0_Hz": {
+        "mean": 0.028885028911694977,
+        "std": 0.01076852382962792,
+        "max": 0.06563723091256818,
+        "n_pairs": 34
+      }
+    }
+  }
+}
