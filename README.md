@@ -117,6 +117,29 @@ by Dr. Carl Dean Cline Sr.
 
 > UFT is not a guess. It is a path. — Dr. Carl D. Cline Sr., July 2025
 
+## 🤖 Automated Repository Organization
+
+The LUFT repository uses automated workflows to keep research organized and accessible:
+
+### Self-Organize Workflow
+**Trigger:** Manual dispatch via GitHub Actions  
+**What it does:** 
+- Generates file manifests and indexes
+- Organizes documentation and research notes  
+- Updates README with latest statistics in multiple languages
+- Creates contributor maps and change logs
+- **Creates a Pull Request** instead of pushing directly to main
+
+### How to manually trigger:
+1. Go to the **Actions** tab in this repository
+2. Select **"Self-Organize LUFT Repo"** workflow  
+3. Click **"Run workflow"** → Choose branch → **"Run workflow"**
+4. Review the generated PR and merge when ready
+
+*This automation ensures research stays organized while maintaining safety through the PR review process.*
+
+---
+
 ## 📂 Contents  
 - /math/ — Derivations, L_preon formulations  
 - /recordings/ — 7,468 Hz .wav files + SDR metadata Lightning and scanning's 
