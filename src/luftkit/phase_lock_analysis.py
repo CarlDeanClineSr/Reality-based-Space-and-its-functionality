@@ -105,6 +105,16 @@ class PhaseAnalyzer:
     
     def compute_sliding_plv(self, phase1: np.ndarray, phase2: np.ndarray) -> Tuple[np.ndarray, np.ndarray]:
         """Compute PLV over sliding windows"""
+        if len(phase1) < self.window_samples or len(phase2) < self.window_samples:
+            # For short signals, compute single PLV
+            if len(phase1) > 10 and len(phase2) > 10:
+                min_len = min(len(phase1), len(phase2))
+                plv = self.compute_plv(phase1, phase2, 0, min_len)
+                mid_time = min_len / 2 / self.fs
+                return np.array([mid_time]), np.array([plv])
+            else:
+                return np.array([]), np.array([])
+        
         n_windows = (len(phase1) - self.window_samples) // (self.window_samples // 2) + 1
         plv_values = []
         window_times = []
@@ -113,7 +123,7 @@ class PhaseAnalyzer:
             start_idx = i * (self.window_samples // 2)
             end_idx = start_idx + self.window_samples
             
-            if end_idx <= len(phase1):
+            if end_idx <= len(phase1) and end_idx <= len(phase2):
                 plv = self.compute_plv(phase1, phase2, start_idx, end_idx)
                 plv_values.append(plv)
                 window_times.append((start_idx + end_idx) / 2 / self.fs)
@@ -125,6 +135,10 @@ class PhaseAnalyzer:
         """Compute null distribution via phase permutation"""
         # Real PLV
         _, real_plv = self.compute_sliding_plv(phase1, phase2)
+        
+        if len(real_plv) == 0:
+            return 1.0, [0.0]  # No data case
+            
         mean_real_plv = np.mean(real_plv)
         
         # Permutation null distribution
@@ -132,7 +146,7 @@ class PhaseAnalyzer:
         
         for _ in range(n_permutations):
             # Randomly shuffle one phase signal in blocks
-            block_size = self.window_samples // 4
+            block_size = max(self.window_samples // 4, 100)
             n_blocks = len(phase2) // block_size
             
             if n_blocks > 1:
@@ -144,10 +158,14 @@ class PhaseAnalyzer:
                 shuffled_phase2 = np.roll(phase2, np.random.randint(1, len(phase2)))
             
             _, null_plv = self.compute_sliding_plv(phase1, shuffled_phase2)
-            null_plvs.append(np.mean(null_plv))
+            if len(null_plv) > 0:
+                null_plvs.append(np.mean(null_plv))
+        
+        if len(null_plvs) == 0:
+            return 1.0, [0.0]
         
         # Compute p-value
-        p_value = (np.sum(np.array(null_plvs) >= mean_real_plv) + 1) / (n_permutations + 1)
+        p_value = (np.sum(np.array(null_plvs) >= mean_real_plv) + 1) / (len(null_plvs) + 1)
         
         return p_value, null_plvs
 
