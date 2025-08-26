@@ -1,0 +1,323 @@
+./# wiki/wiki	297
+./**Summary Table: LUFT Frequency Hierarchy	4974
+./.github/.github/workflows/self_organize.yml	1522
+./.github/workflows/codeql.yml	4690
+./.github/workflows/luft_auto_scan.yml	1790
+./.github/workflows/self_organize.yml	3787
+./.gitignore	159
+./AI_Audit_and_Research_Status_Report.md	4884
+./April26thupdates and review.txt	1139401
+./Auto Multi-Repo LUFT Index	1298
+./Bridging Unification Concepts to Measurements	1645
+./Configs/Configs/default.ymal	1014
+./Copilot Chat   LUFT Resonance Atlas: Phase 2 Overview	1947
+./Copilot and Cline Creations	259921
+./Core Discoveries LUFT	2568
+./Creator of Age Check 61..	211
+./Dynamic Couplings & Emergent Anomaly Fields — LUFT Unification Tracker	3450
+./Einstein-LUFT 2025	21324
+./Einstein’s Quantum Riddle and LUFT’s Answer	17621
+./Flying Machines 2025 AD	241572
+./Grok Session Archive — August 2025	664
+./Grok Session Index — August 2025	840
+./HARPS_LUFT_Mining_Relay_Capsule.md	15022
+./HDSDR_20250724_020642Z_1468kHz_RF.wav	733400
+./HDSDR_20250724_020818Z_7468kHz_RF.wav	2085080
+./HDSDR_20250724_020918Z_7468kHz_RF.wav	1503448
+./HDSDR_20250724_020956Z_7468kHz_RF.wav	8081624
+./HDSDR_20250724_021302Z_7468kHz_RF.wav	3156184
+./HDSDR_20250724_021416Z_7468kHz_RF.wav	9222360
+./HDSDR_20250724_021729Z_7468kHz_RF.wav	5830872
+./HDSDR_20250724_021942Z_7468kHz_RF.wav	2552024
+./HDSDR_20250724_022036Z_7468kHz_RF.wav	1312984
+./HDSDR_20250724_022038Z_7468kHz_RF.wav	147672
+./HDSDR_20250724_022040Z_7468kHz_RF.wav	1485016
+./HDSDR_20250724_022111Z_7468kHz_RF.wav	2904280
+./HDSDR_20250724_022217Z_7468kHz_RF.wav	1517784
+./HDSDR_20250724_022249Z_7468kHz_RF.wav	1560792
+./HDSDR_20250724_022344Z_7468kHz_RF.wav	1521880
+./HDSDR_20250724_022420Z_7468kHz_RF.wav	5826776
+./HDSDR_20250724_022633Z_7468kHz_RF.wav	2900184
+./HDSDR_20250724_022916Z_7468kHz_RF.wav	2871512
+./HDSDR_20250724_023045Z_7468kHz_RF.wav	1650904
+./HDSDR_20250724_023124Z_7468kHz_RF.wav	1632472
+./HDSDR_20250806_135740Z_7468kHz_RF.wav	7903448
+./HDSDR_20250806_135839Z_7468kHz_RF.wav	3188952
+./HDSDR_20250806_135943Z_7468kHz_RF.wav	6248664
+./HDSDR_20250806_140032Z_7468kHz_RF.wav	5900504
+./HDSDR_20250806_140352Z_7468kHz_RF.wav	5843160
+./HDSDR_20250806_140711Z_7468kHz_RF.wav	6998232
+./HDSDR_20250806_140748Z_7468kHz_RF.wav	4710616
+./HDSDR_20250806_140927Z_3333kHz_RF.wav	3967192
+./HDSDR_20250806_141134Z_7kHz_RF.wav	5953752
+./HDSDR_20250806_141336Z_7468kHz_RF.wav	5042392
+./HDSDR_20250809_100932Z_7468kHz_RF.wav	4126936
+./HDSDR_20250809_100956Z_7468kHz_RF.wav	3266776
+./HDSDR_20250809_101015Z_7468kHz_RF.wav	3260632
+./HDSDR_20250809_101039Z_7468kHz_RF.wav	6058200
+./HDSDR_20250809_101116Z_7468kHz_RF.wav	7702744
+./HDSDR_20250809_101227Z_7468kHz_RF.wav	4014296
+./HDSDR_20250809_101249Z_7468kHz_RF.wav	4032728
+./HDSDR_20250809_101321Z_7468kHz_RF.wav	6273240
+./HDSDR_20250809_101401Z_7468kHz_RF.wav	6185176
+./HDSDR_20250809_101537Z_7468kHz_RF.wav	16699608
+./Harmonic & Rational Pattern Configuration	1749
+./Instrumentation Integration Plan	3194
+./LUFT AI Relay Capsule	5040
+./LUFT AI Relay Capsule: JWST Signature Mining Prototype	1370
+./LUFT Capsule: Frequency Sweep for Fine Structure & Subharmonics	2056
+./LUFT Capsule: Matter at the Boundary of Nothings	1680
+./LUFT Capsule: On Something and Nothing — The Interface of Two Types of Nothing	3111
+./LUFT Chat Session #89 — Preon State Inertia Hypothesis	459
+./LUFT Cosmic Partners Relay Capsule	2288
+./LUFT Frequency Coincidence Table	2994
+./LUFT Frequency Sweep Script: CERN, JWST, LIGO Multi-Dataset Analyzer	4270
+./LUFT Lab Experiment: Resonance-Induced Inertial Shift	2631
+./LUFT Master Equation — Unifying Spacetime, Matter, and Energy	3048
+./LUFT Master Index & Automation Guide	4555
+./LUFT Project Master Index	820
+./LUFT Resonance Atlas (RF + Magnonics Scaffold)	2293
+./LUFT Resonance Atlas — Phase 2 (Magnonics Scaffold)	608
+./LUFT Resonance Atlas — Summary Table of Results	1680
+./LUFT Unification Analysis Capsule	2710
+./LUFT Unification Analysis Results	1196
+./LUFT — Lattice Unified Field Theory: Master Equation	4848
+./LUFT — Unification and Structure of Reality_README.md	3271
+./LUFT/UFT Project Ideas: Unification, Structure, and Dynamic Substrate	4055
+./LUFT: Claim of Origin & Provenance	3245
+./LUFT_Findings.md	324
+./LUFT_KEY_EQUATIONS.md	1496
+./LUFT_PROGRESS_DASHB	1774
+./LUFT_THREAD_INDEX.md	2589
+./MIT License	1075
+./Master Equation (Current, August 2025)	3939
+./My Questions for You, Carl	1418
+./NODE_SCALING_LATTICE	3708
+./New Text Document (10).txt	151397
+./New Text Document (100).txt	2264072
+./New Text Document (101).txt	1214793
+./New Text Document (102).txt	1041630
+./New Text Document (103).txt	1139399
+./New Text Document (104).txt	91599
+./New Text Document (105).txt	1139395
+./New Text Document (106).txt	10794
+./New Text Document (107).txt	39049
+./New Text Document (108).txt	0
+./New Text Document (109).txt	59808
+./New Text Document (11).txt	151398
+./New Text Document (110).txt	68877
+./New Text Document (111).txt	27382
+./New Text Document (112).txt	887062
+./New Text Document (113).txt	59338
+./New Text Document (114).txt	825920
+./New Text Document (115).txt	2272679
+./New Text Document (116).txt	277061
+./New Text Document (117).txt	437211
+./New Text Document (118).txt	680574
+./New Text Document (119).txt	987212
+./New Text Document (12).txt	294369
+./New Text Document (120).txt	732943
+./New Text Document (121).txt	1260114
+./New Text Document (122).txt	39305
+./New Text Document (123).txt	54490
+./New Text Document (124).txt	321675
+./New Text Document (125).txt	530907
+./New Text Document (126).txt	47940
+./New Text Document (14).txt	370650
+./New Text Document (16).txt	27572
+./New Text Document (17).txt	581264
+./New Text Document (18).txt	717271
+./New Text Document (19).txt	137252
+./New Text Document (2).txt	1448938
+./New Text Document (20).txt	97131
+./New Text Document (21).txt	66857
+./New Text Document (22).txt	27469
+./New Text Document (23).txt	242770
+./New Text Document (24).txt	42330
+./New Text Document (25).txt	6573
+./New Text Document (26).txt	20226
+./New Text Document (27).txt	215103
+./New Text Document (28).txt	254178
+./New Text Document (29).txt	20677
+./New Text Document (30).txt	217810
+./New Text Document (31).txt	375880
+./New Text Document (32).txt	309395
+./New Text Document (33).txt	7646
+./New Text Document (34).txt	14052
+./New Text Document (35).txt	9623
+./New Text Document (36).txt	18540
+./New Text Document (37).txt	11164
+./New Text Document (38).txt	26389
+./New Text Document (39).txt	17414
+./New Text Document (4).txt	1996368
+./New Text Document (40).txt	877968
+./New Text Document (41).txt	423845
+./New Text Document (42).txt	15993
+./New Text Document (43).txt	757455
+./New Text Document (44).txt	537296
+./New Text Document (45).txt	231066
+./New Text Document (46).txt	399951
+./New Text Document (47).txt	195815
+./New Text Document (48).txt	114817
+./New Text Document (49).txt	410664
+./New Text Document (5).txt	100838
+./New Text Document (50).txt	11134
+./New Text Document (51).txt	641824
+./New Text Document (52).txt	14581
+./New Text Document (53).txt	289442
+./New Text Document (54).txt	8441
+./New Text Document (55).txt	481845
+./New Text Document (56).txt	1218114
+./New Text Document (57).txt	170425
+./New Text Document (58).txt	112508
+./New Text Document (59).txt	168428
+./New Text Document (6).txt	9932
+./New Text Document (60).txt	28680
+./New Text Document (61).txt	87638
+./New Text Document (62).txt	240604
+./New Text Document (63).txt	29305
+./New Text Document (64).txt	33205
+./New Text Document (65).txt	1305522
+./New Text Document (66).txt	698314
+./New Text Document (67).txt	589807
+./New Text Document (68).txt	1348054
+./New Text Document (69).txt	167513
+./New Text Document (7).txt	666883
+./New Text Document (70).txt	579228
+./New Text Document (71).txt	511241
+./New Text Document (72).txt	28850
+./New Text Document (73).txt	1199931
+./New Text Document (74).txt	46622
+./New Text Document (75).txt	231902
+./New Text Document (76).txt	858288
+./New Text Document (77).txt	564692
+./New Text Document (78).txt	194473
+./New Text Document (79).txt	604291
+./New Text Document (8).txt	1894743
+./New Text Document (80).txt	383331
+./New Text Document (81).txt	889144
+./New Text Document (82).txt	4872728
+./New Text Document (83).txt	768045
+./New Text Document (84).txt	35523
+./New Text Document (85).txt	86827
+./New Text Document (86).txt	40540
+./New Text Document (87).txt	239283
+./New Text Document (88).txt	981620
+./New Text Document (89).txt	417469
+./New Text Document (8a).txt	761586
+./New Text Document (9).txt	802981
+./New Text Document (90).txt	267152
+./New Text Document (91).txt	210556
+./New Text Document (92).txt	67314
+./New Text Document (93).txt	142301
+./New Text Document (94).txt	149393
+./New Text Document (95).txt	204989
+./New Text Document (96).txt	1053731
+./New Text Document (97).txt	165400
+./New Text Document (98).txt	41471
+./New Text Document (99).txt	1016692
+./New Text Document NODE LUFT (115).txt	4299350
+./New Text Document PCM LUFT (115).txt	504196
+./New Text Document Planc LUFT(115).txt	4390103
+./New Text Document VHR LUFT (115).txt	240942
+./New Text Document.txt	459913
+./Old luft	519354
+./Overview: Latest Spectroscopy Methods	2867
+./Phase Alignment Metrics (LUFT Resonance Atlas)	3957
+./Project Overview	327
+./Project Overview — LUFT: Unification, Structure, and Dynamics of the Underlying Construction	1278
+./README	1376
+./README.md	3651
+./READMEV3md with LUFT repo manifest	1166
+./README_HARPS_Mining.md	3419
+./README_NODE_DASHBO	2941
+./RSS_AMSR2_ocean_L3_3day_2025-07-24_v08.2.nc	12459015
+./RSS_AMSR2_ocean_L3_3day_2025-07-25_v08.2.nc	12488841
+./Room temperature superconductivity	285282
+./Sample Run: update_frequency_table.py	1918
+./Scan code LUFT signals	980
+./Start Here: LUFT Resonance Atlas	1643
+./The Cavity Magnetron & LUFT: Evolution, Alignment, and Cosmic Implications	5380
+./The Marble, the Solar Atom, and the Restless Cosmos — A Carl Cline Thought Experiment	3673
+./The sphere Cline.txt	498633
+./The works Of Carl Dean Cline.txt	783946
+./Thread_Session_Aug2025.md	431259
+./Twinkle Space Telescope	1802
+./UFT  pdf	64954
+./UFT ideas by: Cline August 2025 Chats..	339104
+./Universal_Resonance_Report_	1107
+./Update_readme_bilingual.py	2224
+./V3_readme.md	1166
+./WELCOME.md	1255
+./Welcome to the LUFT Wiki	526
+./[LUFT Harmonic Frequency Scaling Ma	338
+./auto_index_luft.py	2357
+./auto_index_repo.py	1639
+./auto_node_resonance_scan	3443
+./carl_cosmic_input.md	15209
+./create_markdown_relay_capsule.py	18357
+./docs/_2_magnonics_protocol.md	3096
+./docs/harmonic_patterns.md	1749
+./docs/magnonics_protocol.md	3096
+./docs/phase_alignment_metrics.md	3957
+./download_cern_data.py	1287
+./dynamic_couplings_and_anomalies.md	3377
+./example_theory_note.md	412
+./f18_20250728v8.gz	385416
+./f18_20250728v8_d3d.gz	980639
+./f18_20250817v8.gz	1723250
+./f18_20250817v8_d3d.gz	973249
+./f18_20250818v8.gz	359655
+./f18_20250818v8_d3d.gz	982560
+./f18_20250820v8.gz	1265404
+./f18_20250820v8_d3d.gz	976002
+./f18_20250821v8.gz	458609
+./f18_20250821v8_d3d.gz	952537
+./generate_contributor_map_image.py	1325
+./generate_repo_manifest.py	427
+./harmonics	488
+./harps_config.yaml	1771
+./harps_mining_results/HARPS_LUFT_Mining_Relay_Capsule.md	15022
+./harps_mining_results/detected_peaks_summary.csv	1900
+./harps_mining_results/luft_detection_summary.csv	124
+./harps_mining_results/mining_summary.json	1819
+./harps_mining_results/mining_summary.yaml	2777
+./harps_spectral_mining.py	23677
+./index_diff_log.py	1097
+./io.py	902
+./jekyll	917
+./jwst_signature_mining.py	2641
+./luft_auto_scan.py	3013
+./luftkit code	3095
+./multi_repo_luft_index.py	3691
+./mw.fusion.2025.227.v05.1.gz	512100
+./mw.fusion.2025.228.v05.1.gz	513617
+./mw.fusion.2025.230.v05.1.gz	510855
+./mw.fusion.2025.231.v05.1.gz	513885
+./phase_anomaly_tracker.py	2749
+./pipeline_magnonics.py	1572
+./readme	1938
+./repo_manifest.txt	10396
+./repo_manifest_sizes.txt	0
+./rsc	13
+./slugify_rename_notes.py	625
+./src luft kit io	902
+./src/luftkit/__pycache__/pipeline.cpython-312.pyc	7045
+./src/luftkit/_main_.py	65
+./src/luftkit/pipeline.py	4796
+./src/luftkit/src/luftkit/src	1506
+./src/src	4130
+./srd/luftkit	1547
+./srp	467
+./test	313
+./tests	439
+./thread_knowledge_miner.	1814
+./universal_resonance_search.	2922
+./update_readme_bilingual.py	1800
+./version: 2 Code	1014
+./wiki/Community-&-Discussions	140
+./wiki/Getting-Started.md	233
+./wiki/Key-Findings-&-Table	176
+./wiki/References-&-Further-	142
+./wiki/wiki/Contributing-Guide.md	173
+./wiki/wiki/Tools-&-Analysis-Pipeline.md	153

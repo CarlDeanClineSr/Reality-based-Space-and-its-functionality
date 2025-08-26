@@ -1,0 +1,322 @@
+./# wiki/wiki
+./**Summary Table: LUFT Frequency Hierarchy
+./.github/.github/workflows/self_organize.yml
+./.github/workflows/codeql.yml
+./.github/workflows/luft_auto_scan.yml
+./.github/workflows/self_organize.yml
+./.gitignore
+./AI_Audit_and_Research_Status_Report.md
+./April26thupdates and review.txt
+./Auto Multi-Repo LUFT Index
+./Bridging Unification Concepts to Measurements
+./Configs/Configs/default.ymal
+./Copilot Chat   LUFT Resonance Atlas: Phase 2 Overview
+./Copilot and Cline Creations
+./Core Discoveries LUFT
+./Creator of Age Check 61..
+./Dynamic Couplings & Emergent Anomaly Fields — LUFT Unification Tracker
+./Einstein-LUFT 2025
+./Einstein’s Quantum Riddle and LUFT’s Answer
+./Flying Machines 2025 AD
+./Grok Session Archive — August 2025
+./Grok Session Index — August 2025
+./HARPS_LUFT_Mining_Relay_Capsule.md
+./HDSDR_20250724_020642Z_1468kHz_RF.wav
+./HDSDR_20250724_020818Z_7468kHz_RF.wav
+./HDSDR_20250724_020918Z_7468kHz_RF.wav
+./HDSDR_20250724_020956Z_7468kHz_RF.wav
+./HDSDR_20250724_021302Z_7468kHz_RF.wav
+./HDSDR_20250724_021416Z_7468kHz_RF.wav
+./HDSDR_20250724_021729Z_7468kHz_RF.wav
+./HDSDR_20250724_021942Z_7468kHz_RF.wav
+./HDSDR_20250724_022036Z_7468kHz_RF.wav
+./HDSDR_20250724_022038Z_7468kHz_RF.wav
+./HDSDR_20250724_022040Z_7468kHz_RF.wav
+./HDSDR_20250724_022111Z_7468kHz_RF.wav
+./HDSDR_20250724_022217Z_7468kHz_RF.wav
+./HDSDR_20250724_022249Z_7468kHz_RF.wav
+./HDSDR_20250724_022344Z_7468kHz_RF.wav
+./HDSDR_20250724_022420Z_7468kHz_RF.wav
+./HDSDR_20250724_022633Z_7468kHz_RF.wav
+./HDSDR_20250724_022916Z_7468kHz_RF.wav
+./HDSDR_20250724_023045Z_7468kHz_RF.wav
+./HDSDR_20250724_023124Z_7468kHz_RF.wav
+./HDSDR_20250806_135740Z_7468kHz_RF.wav
+./HDSDR_20250806_135839Z_7468kHz_RF.wav
+./HDSDR_20250806_135943Z_7468kHz_RF.wav
+./HDSDR_20250806_140032Z_7468kHz_RF.wav
+./HDSDR_20250806_140352Z_7468kHz_RF.wav
+./HDSDR_20250806_140711Z_7468kHz_RF.wav
+./HDSDR_20250806_140748Z_7468kHz_RF.wav
+./HDSDR_20250806_140927Z_3333kHz_RF.wav
+./HDSDR_20250806_141134Z_7kHz_RF.wav
+./HDSDR_20250806_141336Z_7468kHz_RF.wav
+./HDSDR_20250809_100932Z_7468kHz_RF.wav
+./HDSDR_20250809_100956Z_7468kHz_RF.wav
+./HDSDR_20250809_101015Z_7468kHz_RF.wav
+./HDSDR_20250809_101039Z_7468kHz_RF.wav
+./HDSDR_20250809_101116Z_7468kHz_RF.wav
+./HDSDR_20250809_101227Z_7468kHz_RF.wav
+./HDSDR_20250809_101249Z_7468kHz_RF.wav
+./HDSDR_20250809_101321Z_7468kHz_RF.wav
+./HDSDR_20250809_101401Z_7468kHz_RF.wav
+./HDSDR_20250809_101537Z_7468kHz_RF.wav
+./Harmonic & Rational Pattern Configuration
+./Instrumentation Integration Plan
+./LUFT AI Relay Capsule
+./LUFT AI Relay Capsule: JWST Signature Mining Prototype
+./LUFT Capsule: Frequency Sweep for Fine Structure & Subharmonics
+./LUFT Capsule: Matter at the Boundary of Nothings
+./LUFT Capsule: On Something and Nothing — The Interface of Two Types of Nothing
+./LUFT Chat Session #89 — Preon State Inertia Hypothesis
+./LUFT Cosmic Partners Relay Capsule
+./LUFT Frequency Coincidence Table
+./LUFT Frequency Sweep Script: CERN, JWST, LIGO Multi-Dataset Analyzer
+./LUFT Lab Experiment: Resonance-Induced Inertial Shift
+./LUFT Master Equation — Unifying Spacetime, Matter, and Energy
+./LUFT Master Index & Automation Guide
+./LUFT Project Master Index
+./LUFT Resonance Atlas (RF + Magnonics Scaffold)
+./LUFT Resonance Atlas — Phase 2 (Magnonics Scaffold)
+./LUFT Resonance Atlas — Summary Table of Results
+./LUFT Unification Analysis Capsule
+./LUFT Unification Analysis Results
+./LUFT — Lattice Unified Field Theory: Master Equation
+./LUFT — Unification and Structure of Reality_README.md
+./LUFT/UFT Project Ideas: Unification, Structure, and Dynamic Substrate
+./LUFT: Claim of Origin & Provenance
+./LUFT_Findings.md
+./LUFT_KEY_EQUATIONS.md
+./LUFT_PROGRESS_DASHB
+./LUFT_THREAD_INDEX.md
+./MIT License
+./Master Equation (Current, August 2025)
+./My Questions for You, Carl
+./NODE_SCALING_LATTICE
+./New Text Document (10).txt
+./New Text Document (100).txt
+./New Text Document (101).txt
+./New Text Document (102).txt
+./New Text Document (103).txt
+./New Text Document (104).txt
+./New Text Document (105).txt
+./New Text Document (106).txt
+./New Text Document (107).txt
+./New Text Document (108).txt
+./New Text Document (109).txt
+./New Text Document (11).txt
+./New Text Document (110).txt
+./New Text Document (111).txt
+./New Text Document (112).txt
+./New Text Document (113).txt
+./New Text Document (114).txt
+./New Text Document (115).txt
+./New Text Document (116).txt
+./New Text Document (117).txt
+./New Text Document (118).txt
+./New Text Document (119).txt
+./New Text Document (12).txt
+./New Text Document (120).txt
+./New Text Document (121).txt
+./New Text Document (122).txt
+./New Text Document (123).txt
+./New Text Document (124).txt
+./New Text Document (125).txt
+./New Text Document (126).txt
+./New Text Document (14).txt
+./New Text Document (16).txt
+./New Text Document (17).txt
+./New Text Document (18).txt
+./New Text Document (19).txt
+./New Text Document (2).txt
+./New Text Document (20).txt
+./New Text Document (21).txt
+./New Text Document (22).txt
+./New Text Document (23).txt
+./New Text Document (24).txt
+./New Text Document (25).txt
+./New Text Document (26).txt
+./New Text Document (27).txt
+./New Text Document (28).txt
+./New Text Document (29).txt
+./New Text Document (30).txt
+./New Text Document (31).txt
+./New Text Document (32).txt
+./New Text Document (33).txt
+./New Text Document (34).txt
+./New Text Document (35).txt
+./New Text Document (36).txt
+./New Text Document (37).txt
+./New Text Document (38).txt
+./New Text Document (39).txt
+./New Text Document (4).txt
+./New Text Document (40).txt
+./New Text Document (41).txt
+./New Text Document (42).txt
+./New Text Document (43).txt
+./New Text Document (44).txt
+./New Text Document (45).txt
+./New Text Document (46).txt
+./New Text Document (47).txt
+./New Text Document (48).txt
+./New Text Document (49).txt
+./New Text Document (5).txt
+./New Text Document (50).txt
+./New Text Document (51).txt
+./New Text Document (52).txt
+./New Text Document (53).txt
+./New Text Document (54).txt
+./New Text Document (55).txt
+./New Text Document (56).txt
+./New Text Document (57).txt
+./New Text Document (58).txt
+./New Text Document (59).txt
+./New Text Document (6).txt
+./New Text Document (60).txt
+./New Text Document (61).txt
+./New Text Document (62).txt
+./New Text Document (63).txt
+./New Text Document (64).txt
+./New Text Document (65).txt
+./New Text Document (66).txt
+./New Text Document (67).txt
+./New Text Document (68).txt
+./New Text Document (69).txt
+./New Text Document (7).txt
+./New Text Document (70).txt
+./New Text Document (71).txt
+./New Text Document (72).txt
+./New Text Document (73).txt
+./New Text Document (74).txt
+./New Text Document (75).txt
+./New Text Document (76).txt
+./New Text Document (77).txt
+./New Text Document (78).txt
+./New Text Document (79).txt
+./New Text Document (8).txt
+./New Text Document (80).txt
+./New Text Document (81).txt
+./New Text Document (82).txt
+./New Text Document (83).txt
+./New Text Document (84).txt
+./New Text Document (85).txt
+./New Text Document (86).txt
+./New Text Document (87).txt
+./New Text Document (88).txt
+./New Text Document (89).txt
+./New Text Document (8a).txt
+./New Text Document (9).txt
+./New Text Document (90).txt
+./New Text Document (91).txt
+./New Text Document (92).txt
+./New Text Document (93).txt
+./New Text Document (94).txt
+./New Text Document (95).txt
+./New Text Document (96).txt
+./New Text Document (97).txt
+./New Text Document (98).txt
+./New Text Document (99).txt
+./New Text Document NODE LUFT (115).txt
+./New Text Document PCM LUFT (115).txt
+./New Text Document Planc LUFT(115).txt
+./New Text Document VHR LUFT (115).txt
+./New Text Document.txt
+./Old luft
+./Overview: Latest Spectroscopy Methods
+./Phase Alignment Metrics (LUFT Resonance Atlas)
+./Project Overview
+./Project Overview — LUFT: Unification, Structure, and Dynamics of the Underlying Construction
+./README
+./README.md
+./READMEV3md with LUFT repo manifest
+./README_HARPS_Mining.md
+./README_NODE_DASHBO
+./RSS_AMSR2_ocean_L3_3day_2025-07-24_v08.2.nc
+./RSS_AMSR2_ocean_L3_3day_2025-07-25_v08.2.nc
+./Room temperature superconductivity
+./Sample Run: update_frequency_table.py
+./Scan code LUFT signals
+./Start Here: LUFT Resonance Atlas
+./The Cavity Magnetron & LUFT: Evolution, Alignment, and Cosmic Implications
+./The Marble, the Solar Atom, and the Restless Cosmos — A Carl Cline Thought Experiment
+./The sphere Cline.txt
+./The works Of Carl Dean Cline.txt
+./Thread_Session_Aug2025.md
+./Twinkle Space Telescope
+./UFT  pdf
+./UFT ideas by: Cline August 2025 Chats..
+./Universal_Resonance_Report_
+./Update_readme_bilingual.py
+./V3_readme.md
+./WELCOME.md
+./Welcome to the LUFT Wiki
+./[LUFT Harmonic Frequency Scaling Ma
+./auto_index_luft.py
+./auto_index_repo.py
+./auto_node_resonance_scan
+./carl_cosmic_input.md
+./create_markdown_relay_capsule.py
+./docs/_2_magnonics_protocol.md
+./docs/harmonic_patterns.md
+./docs/magnonics_protocol.md
+./docs/phase_alignment_metrics.md
+./download_cern_data.py
+./dynamic_couplings_and_anomalies.md
+./example_theory_note.md
+./f18_20250728v8.gz
+./f18_20250728v8_d3d.gz
+./f18_20250817v8.gz
+./f18_20250817v8_d3d.gz
+./f18_20250818v8.gz
+./f18_20250818v8_d3d.gz
+./f18_20250820v8.gz
+./f18_20250820v8_d3d.gz
+./f18_20250821v8.gz
+./f18_20250821v8_d3d.gz
+./generate_contributor_map_image.py
+./generate_repo_manifest.py
+./harmonics
+./harps_config.yaml
+./harps_mining_results/HARPS_LUFT_Mining_Relay_Capsule.md
+./harps_mining_results/detected_peaks_summary.csv
+./harps_mining_results/luft_detection_summary.csv
+./harps_mining_results/mining_summary.json
+./harps_mining_results/mining_summary.yaml
+./harps_spectral_mining.py
+./index_diff_log.py
+./io.py
+./jekyll
+./jwst_signature_mining.py
+./luft_auto_scan.py
+./luftkit code
+./multi_repo_luft_index.py
+./mw.fusion.2025.227.v05.1.gz
+./mw.fusion.2025.228.v05.1.gz
+./mw.fusion.2025.230.v05.1.gz
+./mw.fusion.2025.231.v05.1.gz
+./phase_anomaly_tracker.py
+./pipeline_magnonics.py
+./readme
+./repo_manifest.txt
+./rsc
+./slugify_rename_notes.py
+./src luft kit io
+./src/luftkit/__pycache__/pipeline.cpython-312.pyc
+./src/luftkit/_main_.py
+./src/luftkit/pipeline.py
+./src/luftkit/src/luftkit/src
+./src/src
+./srd/luftkit
+./srp
+./test
+./tests
+./thread_knowledge_miner.
+./universal_resonance_search.
+./update_readme_bilingual.py
+./version: 2 Code
+./wiki/Community-&-Discussions
+./wiki/Getting-Started.md
+./wiki/Key-Findings-&-Table
+./wiki/References-&-Further-
+./wiki/wiki/Contributing-Guide.md
+./wiki/wiki/Tools-&-Analysis-Pipeline.md

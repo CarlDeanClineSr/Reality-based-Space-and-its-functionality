@@ -1,3 +1,35 @@
+<!-- LUFT_MANIFEST_JA START -->
+### 📊 LUFT Repo Manifest
+
+- **Total files:** 322
+- **Last update:** 2025-08-26T15:43:24.304081Z
+
+<!-- LUFT_MANIFEST_JA END -->
+
+<!-- LUFT_MANIFEST_RU START -->
+### 📊 LUFT Repo Manifest
+
+- **Total files:** 322
+- **Last update:** 2025-08-26T15:43:24.297891Z
+
+<!-- LUFT_MANIFEST_RU END -->
+
+<!-- LUFT_MANIFEST_FR START -->
+### 📊 LUFT Repo Manifest
+
+- **Total files:** 322
+- **Last update:** 2025-08-26T15:43:24.294677Z
+
+<!-- LUFT_MANIFEST_FR END -->
+
+<!-- LUFT_MANIFEST_EN START -->
+### 📊 LUFT Repo Manifest
+
+- **Total files:** 322
+- **Last update:** 2025-08-26T15:43:24.294659Z
+
+<!-- LUFT_MANIFEST_EN END -->
+
 # LUFT: The Living Unified Field Theory Project
 
 **Unifying the structure, dynamics, and emergent patterns of space, time, energy, and matter.**
