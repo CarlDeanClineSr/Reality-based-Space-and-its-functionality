@@ -1,0 +1,4 @@
+epoch_name,start_time,end_time,description
+LHC_Run3_2022,2022-04-01 00:00:00,2022-12-31 23:59:59,LHC Run 3 Start
+LHC_Run3_2023,2023-01-01 00:00:00,2023-12-31 23:59:59,LHC Run 3 Continue
+Future_Collider_2025,2025-01-01 00:00:00,2025-12-31 23:59:59,Future Collider Online
