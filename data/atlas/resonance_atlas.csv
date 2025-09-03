@@ -1,0 +1,3 @@
+id,band,center_Hz,instrument,conditions,source_path,notes
+EXAMPLE-001,alpha,123.45,contact-mic,"room-temp, quiet",capsules/example.md,Example row; replace with curated value
+EXAMPLE-002,beta,678.90,coil-probe,"ambient, low EM noise",capsules/example2.md,Example row; replace with curated value
