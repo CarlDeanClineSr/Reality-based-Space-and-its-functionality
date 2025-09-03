@@ -1,5 +1,7 @@
 # LUFT: The Living Unified Field Theory Project
 
+[![CodeQL Advanced](https://github.com/CarlDeanClineSr/Reality-based-Space-and-its-functionality/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/CarlDeanClineSr/Reality-based-Space-and-its-functionality/actions/workflows/codeql.yml?query=branch%3Amain)
+
 **Unifying the structure, dynamics, and emergent patterns of space, time, energy, and matter.**
 
 ---
