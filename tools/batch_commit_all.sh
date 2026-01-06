@@ -1,6 +1,9 @@
 #!/bin/bash
 # Batch commit Imperial Math conversions to all 21 repos
 
+BASE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+PARENT_DIR="$(cd "$BASE_DIR/.." && pwd)"
+
 REPOS=(
     "luft-portal-"
     "LUFT-Auto"
@@ -8,28 +11,41 @@ REPOS=(
     "Unified-Field-Theory-Solutions-2025"
     "LUFT_Recordings"
     "LUFT-Unified-Field-Project"
-    "Lattice-Unified-Field-Theory-L.U.F. T"
+    "Lattice-Unified-Field-Theory-L.U.F.T"
     "Unification-Utilization-Physics-"
     "-Unthought-Of-Physics-By-You-and-I-"
     "Reality-based-Space-and-its-functionality"
-    # Add remaining 11 repos
+    # Add remaining repos as needed
 )
 
 COMMIT_MSG="Convert to Imperial Math (automated)"
 
 for repo in "${REPOS[@]}"; do
-    if [ -d "../$repo" ]; then
+    repo_path="$PARENT_DIR/$repo"
+    if [ -d "$repo_path" ]; then
         echo "================================================"
         echo "Processing: $repo"
         echo "================================================"
 
-        cd "../$repo" || exit 1
+        if ! cd "$repo_path"; then
+            echo "⚠️  Unable to enter $repo, skipping"
+            continue
+        fi
         git add -A
-        git commit -m "$COMMIT_MSG"
-        git push origin main
-        echo "✅ $repo committed and pushed"
+        if git diff --cached --quiet; then
+            echo "ℹ️  No changes to commit for $repo"
+        else
+            branch="$(git rev-parse --abbrev-ref HEAD)"
+            branch=${branch:-main}
+            git commit -m "$COMMIT_MSG"
+            if git push origin "$branch"; then
+                echo "✅ $repo committed and pushed to $branch"
+            else
+                echo "⚠️  Push failed for $repo on branch $branch"
+            fi
+        fi
         echo ""
-        cd - > /dev/null || exit 1
+        cd "$BASE_DIR" || exit 1
     else
         echo "⚠️  Repo not found: $repo"
     fi

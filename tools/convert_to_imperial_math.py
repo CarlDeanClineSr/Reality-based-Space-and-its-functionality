@@ -34,7 +34,6 @@ CONVERSIONS = {
     r"×": " by ",
     r"\\div": " per ",
     r"÷": " per ",
-    r"/": " per ",
     # Greek symbols (common)
     r"\\alpha": "alpha",
     r"\\beta": "beta",
@@ -70,15 +69,11 @@ CONVERSIONS = {
 
 def convert_file_content(content: str):
     """Convert standard notation to Imperial Math."""
-    original_content = content
+    total_changes = 0
     for pattern, replacement in CONVERSIONS.items():
-        content = re.sub(pattern, replacement, content)
-    changes = sum(
-        1
-        for old, new in zip(original_content.split("\n"), content.split("\n"))
-        if old != new
-    )
-    return content, changes
+        content, count = re.subn(pattern, replacement, content)
+        total_changes += count
+    return content, total_changes
 
 
 def process_file(filepath: Path):
@@ -93,8 +88,8 @@ def process_file(filepath: Path):
             print(f"✅ {filepath}: {changes} conversions")
             return changes
         return 0
-    except Exception as exc:  # pragma: no cover - logging only
-        print(f"❌ {filepath}: {exc}")
+    except (OSError, UnicodeDecodeError) as exc:
+        print(f"❌ Failed to process {filepath}: {exc}")
         return 0
 
 
@@ -105,7 +100,8 @@ def process_repo(repo_path: str):
     files_processed = 0
     for ext in extensions:
         for filepath in Path(repo_path).rglob(f"*{ext}"):
-            if any(skip in str(filepath) for skip in [".git", "node_modules", "__pycache__", "venv"]):
+            path_str = str(filepath)
+            if any(skip in path_str for skip in [".git", "node_modules", "__pycache__", "venv"]):
                 continue
             changes = process_file(filepath)
             if changes > 0:
@@ -137,7 +133,7 @@ def main():
             "../Unified-Field-Theory-Solutions-2025",
             "../LUFT_Recordings",
             "../LUFT-Unified-Field-Project",
-            "../Lattice-Unified-Field-Theory-L.U.F. T",
+            "../Lattice-Unified-Field-Theory-L.U.F.T",
             "../Unification-Utilization-Physics-",
             "../-Unthought-Of-Physics-By-You-and-I-",
             "../Reality-based-Space-and-its-functionality",
